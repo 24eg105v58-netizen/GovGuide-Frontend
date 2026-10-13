@@ -9,3 +9,4 @@ coverage/
 .DS_Store
 Thumbs.db
 Add-Content .gitignore "powershell.bat"powershell.bat
+powershell.bat
