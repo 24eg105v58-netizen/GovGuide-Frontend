@@ -8,4 +8,4 @@ coverage/
 .vite/
 .DS_Store
 Thumbs.db
-Add-Content .gitignore "powershell.bat"
+Add-Content .gitignore "powershell.bat"powershell.bat
